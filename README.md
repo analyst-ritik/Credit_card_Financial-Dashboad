@@ -62,3 +62,6 @@ transactions
 
 ![CC_ customer report ](https://github.com/user-attachments/assets/1b9e596e-8cb4-4a2f-9f70-2577b13076a1)
 
+![cc_transaction report](https://github.com/user-attachments/assets/3ffe8a8c-1afa-4f80-8f97-585794b029d4)
+
+
